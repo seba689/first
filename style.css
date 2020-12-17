@@ -1,0 +1,193 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: white    ;
+    
+   
+}
+
+#menu {
+    position: fixed;
+    display: inline-block;
+    margin-left: 1920px;
+    background-color: rgba(82, 110, 170, 0.74);
+    border-radius: 15px;
+    opacity: 0.5;
+
+}
+
+.pantalla{
+    display: block;
+    
+    
+   
+}
+  
+    
+#titulo1{
+    font-size: 40px;
+    margin-top: 600px;
+    margin-left: 600px;
+    display: inline-block;
+
+}
+body{
+    width: 1900px;
+    height: 1440px;
+    display: inline-block;
+    background-image: url(City[2560×1440].jpg);
+    
+    
+}
+
+.about1{
+    width: 500px;
+    height: 400px;
+    display: inline-block;
+    color: white;
+    align-content: center;
+    margin-left: 70%;
+    margin-top: 650px;
+    position: relative;
+    top: -1400px;
+    /*background-color: turquoise;*/
+    
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+  /*  background-color: turquoise;*/
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+}
+#foto1{
+    display: inline-block;
+    margin-top:200px ;
+    margin-left:300px;
+
+}
+
+#gallery{
+    display:block;
+    margin-left: 200px;
+  /*  background-color: rgb(180, 21, 21)*/
+    position: relative;
+    top: -800px;
+    font-size: 40px;
+}
+
+.gallery{
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    margin: 20px;
+    margin-left: 100px;
+   /*border: 5px solid greenyellow;*/
+    padding: 50px;
+    /*background-color: turquoise;*/
+    position: relative;
+    top: -600px;
+}
+
+#form{
+    display: block;
+    width: 400px;
+    height: 800px;
+    text-align: center;
+  /*  background-color: turquoise;*/
+    margin-left: 930px;
+    position: relative;
+    top: -200px;
+}
+
+input{
+    display: block;
+    margin-left: 70px;
+    margin-top: 15px;
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+}
+label{
+    text-align: center;
+    margin-top: 20px;
+   
+
+}
+
+textarea{
+    margin-top: 25px;
+    overflow:auto;
+    border-radius: 15px;
+}
+
+#enviar{
+    border-radius: 10px;
+    margin-top: 20px;
+   
+}    
+
+#contact{
+    margin-left: 350px;
+    margin-top: 50px;
+    position: relative;
+    top: -200px;
+}
+
+.foto2{
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+.li{
+    display: inline-block;
+}
+
+#footer{
+margin-left: 350px;
+text-align: center;
+position: relative;
+top: -300px;
+}
+
+.foto{
+    width: 600px;
+    height: 500px;
+    display: inline-block;
+}
+
+#textarea{
+    color: black;
+    border-radius: 15px;
+}
+h6{
+    display: block;
+   /* background-color: chartreuse;*/
+    
+}
+#aboutme{
+     margin-top: 600px;
+   
+}
+
+#gallery1{
+   
+    margin-top:100px;
+    position:relative;
+    top:-1000px;
+    /*background-color: chartreuse;*/
+}
+#contact1{
+position: relative;
+top: -280px;
+margin-bottom: 50px;
+/*background-color: greenyellow;*/
+}
+#enviar{
+    color: black;
+}
